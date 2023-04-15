@@ -1,0 +1,42 @@
+body{
+	font-family: "Arial";
+	font-weight: bold;
+	background-image: url("../../assets/Images/products/India2.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+    height: 650px;
+}
+#main{
+	margin: 2%;
+	color: #ffffff;
+	
+}
+input{
+	padding: 1%;
+}
+.label{
+	background-color: #1a1a1a;
+	color: #ffffff;
+	border:none;
+	margin: 3px;
+	width: 30%;
+}
+#name{
+	width: 13.5%;
+	margin: 3px;
+	margin-right: 4px;
+}
+#email{
+	width: 14%;
+	margin: 0px;
+}
+#message{
+	height: 100px;	
+}
+#submit{
+	background-color: #1a1a1a;
+	border-radius: 10px;
+	border-color: #66ffcc;
+	color: #66ffcc;
+}
+
